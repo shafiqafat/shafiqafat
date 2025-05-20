@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Mohammad Shafiqur Rahman Arafat from Dhaka, Bangladesh. I am currently a student of Computer Science and Engineering doing final semester of my undergraduation.<br>I am very interested in the field of Software Engineering and UI UX Design.<br>I am somewhat proficient in Python, SQL, Excel, Tableau and Figma, Adobe XD and also have a solid understanding of data analytics techniques such as dashboard building, data mining, data merging, statistics, and critical thinking.
+Computer Science graduate with a strong foundation in networking concepts, protocols, and IT infrastructure. Gaining hands-on experience in routing, switching, and network configuration using Cisco Packet Tracer. Currently preparing for the Cisco CCNA certification (expected October 2025), with a focus on subnetting, VLANs, routing protocols, and ACLs. Committed to continuous learning and pursuing a career as a Network Engineer.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shafiqafat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
