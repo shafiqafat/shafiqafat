@@ -1,5 +1,6 @@
 # 💫 About Me:
-Computer Science graduate with a strong foundation in networking concepts, protocols, and IT infrastructure. Gaining hands-on experience in routing, switching, and network configuration using Cisco Packet Tracer. Currently preparing for the Cisco CCNA certification (expected October 2025), with a focus on subnetting, VLANs, routing protocols, and ACLs. Committed to continuous learning and pursuing a career as a Network Engineer.
+UI/UX-focused Frontend Developer with a QA background.
+Experienced in usability testing, process improvement, and building clean, user-centered interfaces. Currently working as an Intern Web Developer and building real-world frontend and UI/UX projects. Strong interest in design systems, usability, and modern web development.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shafiqafat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
