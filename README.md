@@ -1,6 +1,5 @@
 # 💫 About Me:
-UI/UX-focused Frontend Developer with a QA background.
-Experienced in usability testing, process improvement, and building clean, user-centered interfaces. Currently working as an Intern Web Developer and building real-world frontend and UI/UX projects. Strong interest in design systems, usability, and modern web development.
+Software Engineer with hands-on experience building responsive web interfaces using React.js, JavaScript, HTML5, CSS3, WordPress, and Elementor. Experienced in translating designs and project requirements into functional, responsive, and user-friendly web solutions. Strong background in Quality Assurance, bringing a detail-oriented approach to debugging, usability, and maintaining consistent implementation. Comfortable collaborating with development teams and continuously expanding skills in modern frontend development.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shafiqafat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
